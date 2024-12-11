@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#divfirst {
+    border-radius: 33.185px;
+    background-image: url(./image.png);
+    width: 1200px;
+    height: 500px;
+    background-size: cover;
+    text-align: center;
+    padding: 39px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+#paragraphfirst {
+    width: 600px;
+   
+    margin: 0 auto;
+    color: white;
+    font-size: 20px;
+}
+#divsecond {
+    max-width: 1073px;
+    border-radius: 24px;
+    margin: 0 auto;
+    padding: 40px 32px;
+    background-color: #EBF8FE;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#firsttitle {
+    color: #181D27;
+    text-align: center;
+    font-size: 45px;
+}
+#text {
+    color: #535862;
+    font-size: 32px;
+    margin-top: 24px;
+}
+#email {
+    text-align: center;
+    margin-top: 36px;
+    
+    
+}
+#input {
+    text-align: center;
+    width: 317px;
+    border: 1px solid white;
+    padding: 12px 14px;
+    border-radius: 8px;
+    background-color: white;
+}
+#button {
+   width: 119px;
+    color: white;
+    background-color: #007CB8;
+    border: none;
+    padding: 12px 18px;
+    border-radius: 8px;
+}
+#subscribe {
+    margin-left: 24px;
+    display: inline-block;
+}
+#paragraphsecond {
+    color: #535862;
+    font-size: 12px;
+    width: 825px;
+}
+#divthird {
+    max-width: 546px;
+    padding: 40px 32px;
+    background-color: #EBF8FE;
+    border-radius: 24px;
+    
+    margin: 0 auto;
+}
+#secondtitle {
+    color: #181D27;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+#name {
+    background-color:  #EBF8FE;;
+    padding: 8px 16px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    width: 482px;
+    margin-top: 8px;
+}
+#labelsecond {
+    color: #1B003D;
+    margin-top: 24px;
+}
+#emaill {
+    background-color:  #EBF8FE;;
+    padding: 8px 16px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    width: 482px;
+    margin-top: 8px;
+}
+#radio {
+    margin-top: 24px;
+    color: #1B003D;
+    font-size: 14px;
+}
+#radiofirst {
+    margin-top: 10px;
+    color: #6D5F8B;
+    font-size: 14px;
+    
+}
+#radiosecond {
+    margin-top: 10px;
+    color: #6D5F8B;
+    font-size: 14px;
+}
+#radiothird {
+    margin-top: 10px;
+    color: #6D5F8B;
+    font-size: 14px;
+}
+#first {
+    margin-left: 11px;
+}
+#second {
+    margin-left: 11px;
+}
+#third {
+    margin-left: 11px;
+}
+#checkbox {
+    margin-top: 24px;
+    color: #1B003D;
+    font-size: 14px;
+}
+ #checkboxfirst,
+ #checkboxsecond,
+ #checkboxthird,
+ #checkboxfour {
+    margin-top: 10px;
+    color: #6D5F8B;
+    font-size: 14px;
+ }   
+ #c,
+ #cc,
+ #java,
+ #python {
+    margin-left: 11px;
+ }
+
